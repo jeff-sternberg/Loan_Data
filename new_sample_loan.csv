@@ -1,0 +1,74 @@
+﻿term,emp_title,loan_status,purpose,addr_state,total_pymnt
+ 36 months,,Fully Paid,credit_card,AZ,5861.071414
+ 60 months,Ryder,Charged Off,car,GA,1008.71
+ 36 months,,Fully Paid,small_business,IL,3003.653644
+ 36 months,AIR RESOURCES BOARD,Fully Paid,other,CA,12226.30221
+ 60 months,University Medical Group,Current,other,OR,3242.17
+ 36 months,Veolia Transportaton,Fully Paid,wedding,AZ,5631.377753
+ 60 months,Southern Star Photography,Current,debt_consolidation,NC,8136.84
+ 36 months,MKC Accounting ,Fully Paid,car,CA,3938.144334
+ 60 months,,Charged Off,small_business,CA,646.02
+ 60 months,Starbucks,Charged Off,other,TX,1476.19
+ 60 months,Southwest Rural metro,Fully Paid,debt_consolidation,AZ,7677.52
+ 36 months,UCLA,Fully Paid,debt_consolidation,CA,13943.08
+ 36 months,Va. Dept of Conservation/Recreation,Charged Off,debt_consolidation,VA,2270.7
+ 36 months,Target,Fully Paid,credit_card,IL,3478.981915
+ 36 months,SFMTA,Charged Off,other,CA,7471.99
+ 36 months,Internal revenue Service,Fully Paid,debt_consolidation,MO,1270.171106
+ 36 months,Chin's Restaurant,Fully Paid,home_improvement,CA,12519.26045
+ 36 months,Duracell,Fully Paid,major_purchase,CT,3785.02
+ 36 months,Connection Inspection,Fully Paid,medical,UT,7164.499852
+ 36 months,Network Interpreting Service,Fully Paid,debt_consolidation,CA,9459.96
+ 60 months,Archdiocese of Galveston Houston,Fully Paid,debt_consolidation,TX,27663.04267
+ 36 months,Osram Sylvania,Charged Off,debt_consolidation,FL,14025.4
+ 36 months,Value Air,Fully Paid,credit_card,TX,11902.56157
+ 36 months,Wells Fargo Bank,Fully Paid,debt_consolidation,CA,11536.31
+ 36 months,bmg-educational,Charged Off,major_purchase,CA,2050.14
+ 36 months,Winfield Pathology Consultants,Fully Paid,credit_card,IL,15823.48
+ 36 months,nyc transit,Charged Off,debt_consolidation,NY,0
+ 60 months,Frito Lay,Charged Off,other,PA,1609.12
+ 36 months,Shands Hospital at the University of Fl,Fully Paid,debt_consolidation,FL,4484.79
+ 36 months,Oakridge homes,Fully Paid,credit_card,MN,10122.20861
+ 36 months,,Fully Paid,debt_consolidation,NY,4898.543558
+ 36 months,Audubon Mutual Housing Corporation,Fully Paid,debt_consolidation,NJ,34886.08
+ 60 months,US Legal Support,Current,debt_consolidation,FL,11622.36
+ 36 months,Good Samaritan Society,Fully Paid,debt_consolidation,OR,5714.592129
+ 36 months,GREG BARRETT DRYWALL,Fully Paid,credit_card,CA,8848.94043
+ 36 months,Sharp Lawn Inc.,Fully Paid,credit_card,KY,14537.45953
+ 36 months,Department of Justice,Fully Paid,moving,CA,12157.2
+ 36 months,Gateway Hospice,Fully Paid,debt_consolidation,OH,16662.6
+ 36 months,Cox Communications,Fully Paid,debt_consolidation,AZ,7125.283165
+ 60 months,United States Infrastructure Corporation,Current,debt_consolidation,IL,13506.54
+ 36 months,Nucor Building Systems,Fully Paid,other,SC,10749.76265
+ 36 months,John Wiley Jr.,Fully Paid,debt_consolidation,NJ,13516.38296
+ 36 months,,Fully Paid,other,PA,3915.027595
+ 36 months,citizens bank,Fully Paid,debt_consolidation,RI,5626.892655
+ 36 months,"Stewart Enterprises, Inc.",Fully Paid,debt_consolidation,LA,6065.86
+ 36 months,golfers warehouse,Fully Paid,small_business,MA,16239.91413
+ 36 months,STERIS Corporation,Charged Off,debt_consolidation,OH,5021.37
+ 36 months,Costco Wholesale Corp.,Fully Paid,other,NY,11724.56774
+ 36 months,Helicoil,Fully Paid,credit_card,CT,10282.67
+ 36 months,cognizant technology solutions,Fully Paid,debt_consolidation,CT,12157.38005
+ 36 months,Caterpillar Inc.,Charged Off,debt_consolidation,IL,16177.77
+ 36 months,City of Santa Monica ,Fully Paid,credit_card,CA,29695.62268
+ 36 months,Aerotek Scientific,Fully Paid,debt_consolidation,CA,8205.473816
+ 36 months,Chemat Technology Inc,Charged Off,car,CA,3521.95
+ 36 months,Scott & White,Fully Paid,credit_card,TX,13748.21311
+ 60 months,Costco,Charged Off,debt_consolidation,WA,18319.14
+ 60 months,CA Technologies,Fully Paid,credit_card,MA,20876.1
+ 36 months,Netflix,Fully Paid,debt_consolidation,OR,11474.76
+ 36 months,DCAA,Fully Paid,credit_card,TX,10575.94
+ 36 months,Triple D security ,Fully Paid,debt_consolidation,TX,9079.334843
+ 60 months,wrisco,Fully Paid,debt_consolidation,NJ,17402.23999
+ 60 months,,Current,small_business,CA,10713.52
+ 60 months,webb candy,Fully Paid,debt_consolidation,WI,21323.43
+ 36 months,Omniplex ,Fully Paid,debt_consolidation,VA,10267.26214
+ 60 months,CEC ENTERTAINMENT INC,Charged Off,debt_consolidation,OH,8772.91
+ 36 months,CPI,Fully Paid,debt_consolidation,OH,4103.168128
+ 60 months,grandma kitchen,Charged Off,debt_consolidation,MN,5577.75
+ 36 months,"Gen-Probe, Inc",Fully Paid,debt_consolidation,CA,18172.71
+ 60 months,autozone,Charged Off,small_business,CA,4173.57
+ 36 months,USAF Civil Service,Fully Paid,credit_card,FL,18562.40042
+ 60 months,Dollar Tree Stores,Fully Paid,credit_card,GA,18097.34458
+ 36 months,"Riverside County, California",Charged Off,debt_consolidation,CA,4776.45
+ 36 months,Insight Card Services,Fully Paid,debt_consolidation,AL,3246.8

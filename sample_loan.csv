@@ -1,0 +1,74 @@
+﻿id,loan_amnt,term,int_rate,installment,emp_title,emp_length,home_ownership,issue_d,loan_status,purpose,addr_state,total_pymnt,total_pymnt_inv,total_rec_prncp,last_pymnt_d,application_type
+1077501,5000, 36 months,10.65,162.87,Ryder,10+ years,RENT,Dec-11,Default,credit_card,AZ,5861.071414,5831.78,5000,Jan-15,INDIVIDUAL
+1077430,2500, 60 months,15.27,59.83,Ryder,< 1 year,RENT,Dec-11,Charged Off,car,GA,1008.71,1008.71,456.46,Apr-13,INDIVIDUAL
+1077175,2400, 36 months,15.96,84.33,Ryder,10+ years,RENT,Dec-11,Default,small_business,IL,3003.653644,3003.65,2400,Jun-14,INDIVIDUAL
+1076863,10000, 36 months,13.49,339.31,AIR RESOURCES BOARD,10+ years,RENT,Dec-11,Fully Paid,other,CA,12226.30221,12226.3,10000,Jan-15,INDIVIDUAL
+1075358,3000, 60 months,12.69,67.79,University Medical Group,1 year,RENT,Dec-11,Current,other,OR,3242.17,3242.17,2233.1,Jan-16,INDIVIDUAL
+1075269,5000, 36 months,7.9,156.46,Veolia Transportaton,3 years,RENT,Dec-11,Fully Paid,wedding,AZ,5631.377753,5631.38,5000,Jan-15,INDIVIDUAL
+1069639,7000, 60 months,15.96,170.08,Southern Star Photography,8 years,RENT,Dec-11,Current,debt_consolidation,NC,8136.84,8136.84,5110.85,Jan-16,INDIVIDUAL
+1072053,3000, 36 months,18.64,109.43,MKC Accounting ,9 years,RENT,Dec-11,Fully Paid,car,CA,3938.144334,3938.14,3000,Jan-15,INDIVIDUAL
+1071795,5600, 60 months,21.28,152.39,Starbucks,4 years,OWN,Dec-11,Charged Off,small_business,CA,646.02,646.02,162.02,Apr-12,INDIVIDUAL
+1071570,5375, 60 months,12.69,121.45,Starbucks,< 1 year,RENT,Dec-11,Charged Off,other,TX,1476.19,1469.34,673.48,Nov-12,INDIVIDUAL
+1070078,6500, 60 months,14.65,153.45,Southwest Rural metro,5 years,OWN,Dec-11,Fully Paid,debt_consolidation,AZ,7677.52,7677.52,6500,Jun-13,INDIVIDUAL
+1069908,12000, 36 months,12.69,402.54,UCLA,10+ years,OWN,Dec-11,Fully Paid,debt_consolidation,CA,13943.08,13943.08,12000,Sep-13,INDIVIDUAL
+1064687,9000, 36 months,13.49,305.38,Va. Dept of Conservation/Recreation,< 1 year,RENT,Dec-11,Charged Off,debt_consolidation,VA,2270.7,2270.7,1256.14,Jul-12,INDIVIDUAL
+1069866,3000, 36 months,9.91,96.68,Target,3 years,RENT,Dec-11,Fully Paid,credit_card,IL,3478.981915,3478.98,3000,Jan-15,INDIVIDUAL
+1069057,10000, 36 months,10.65,325.74,SFMTA,3 years,RENT,Dec-11,Charged Off,other,CA,7471.99,7471.99,5433.47,Oct-13,INDIVIDUAL
+1069759,1000, 36 months,16.29,35.31,Internal revenue Service,< 1 year,RENT,Dec-11,Fully Paid,debt_consolidation,MO,1270.171106,1270.17,1000,Jan-15,INDIVIDUAL
+1065775,10000, 36 months,15.27,347.98,Chin's Restaurant,4 years,RENT,Dec-11,Fully Paid,home_improvement,CA,12519.26045,12519.26,10000,Jan-15,INDIVIDUAL
+1069971,3600, 36 months,6.03,109.57,Duracell,10+ years,MORTGAGE,Dec-11,Fully Paid,major_purchase,CT,3785.02,3785.02,3600,May-13,INDIVIDUAL
+1062474,6000, 36 months,11.71,198.46,Connection Inspection,1 year,MORTGAGE,Dec-11,Fully Paid,medical,UT,7164.499852,7164.5,6000,Feb-15,INDIVIDUAL
+1069742,9200, 36 months,6.03,280.01,Network Interpreting Service,6 years,RENT,Dec-11,Fully Paid,debt_consolidation,CA,9459.96,9459.96,9200,Jul-12,INDIVIDUAL
+1069740,20250, 60 months,15.27,484.63,Archdiocese of Galveston Houston,3 years,RENT,Dec-11,Fully Paid,debt_consolidation,TX,27663.04267,25417.68,20250,Aug-15,INDIVIDUAL
+1039153,21000, 36 months,12.42,701.73,Osram Sylvania,10+ years,RENT,Dec-11,Charged Off,debt_consolidation,FL,14025.4,14025.4,10694.96,Sep-13,INDIVIDUAL
+1069710,10000, 36 months,11.71,330.76,Value Air,10+ years,OWN,Dec-11,Fully Paid,credit_card,TX,11902.56157,11902.56,10000,Jan-15,INDIVIDUAL
+1069700,10000, 36 months,11.71,330.76,Wells Fargo Bank,5 years,RENT,Dec-11,Fully Paid,debt_consolidation,CA,11536.31,11536.31,10000,Oct-13,INDIVIDUAL
+1069559,6000, 36 months,11.71,198.46,bmg-educational,1 year,RENT,Dec-11,Charged Off,major_purchase,CA,2050.14,2050.14,1305.58,Oct-12,INDIVIDUAL
+1069697,15000, 36 months,9.91,483.38,Winfield Pathology Consultants,2 years,MORTGAGE,Dec-11,Fully Paid,credit_card,IL,15823.48,15823.48,15000,Sep-12,INDIVIDUAL
+1069800,15000, 36 months,14.27,514.64,nyc transit,9 years,RENT,Dec-11,Charged Off,debt_consolidation,NY,0,0,0,,INDIVIDUAL
+1069657,5000, 60 months,16.77,123.65,Frito Lay,2 years,RENT,Dec-11,Charged Off,other,PA,1609.12,1609.12,629.05,Dec-12,INDIVIDUAL
+1069799,4000, 36 months,11.71,132.31,Shands Hospital at the University of Fl,10+ years,MORTGAGE,Dec-11,Fully Paid,debt_consolidation,FL,4484.79,4484.79,4000,Apr-13,INDIVIDUAL
+1047704,8500, 36 months,11.71,281.15,Oakridge homes,< 1 year,RENT,Dec-11,Fully Paid,credit_card,MN,10122.20861,10122.21,8500,Dec-14,INDIVIDUAL
+1032111,4375, 36 months,7.51,136.11,Starbucks,7 years,MORTGAGE,Dec-11,Fully Paid,debt_consolidation,NY,4898.543558,4898.54,4375,Jan-15,INDIVIDUAL
+1069539,31825, 36 months,7.9,995.82,Audubon Mutual Housing Corporation,5 years,MORTGAGE,Dec-11,Fully Paid,debt_consolidation,NJ,34886.08,34886.08,31825,Aug-13,INDIVIDUAL
+1065420,10000, 60 months,15.96,242.97,US Legal Support,2 years,RENT,Dec-11,Current,debt_consolidation,FL,11622.36,11593.4,7304.67,Jan-16,INDIVIDUAL
+1069591,5000, 36 months,8.9,158.77,Good Samaritan Society,2 years,RENT,Dec-11,Fully Paid,debt_consolidation,OR,5714.592129,5714.59,5000,Jan-15,INDIVIDUAL
+1069530,7000, 36 months,15.96,245.97,GREG BARRETT DRYWALL,7 years,RENT,Dec-11,Fully Paid,credit_card,CA,8848.94043,8848.94,7000,Jan-15,INDIVIDUAL
+1069522,12400, 36 months,10.65,403.91,Sharp Lawn Inc.,10+ years,RENT,Dec-11,Fully Paid,credit_card,KY,14537.45953,14537.46,12400,Jan-15,INDIVIDUAL
+1069361,10800, 36 months,9.91,348.03,Department of Justice,2 years,RENT,Dec-11,Fully Paid,moving,CA,12157.2,12157.2,10800,Nov-13,INDIVIDUAL
+1069357,15000, 36 months,7.9,469.36,Gateway Hospice,1 year,RENT,Dec-11,Fully Paid,debt_consolidation,OH,16662.6,16662.6,15000,Jan-14,INDIVIDUAL
+1069356,6000, 36 months,12.42,200.5,Cox Communications,1 year,RENT,Dec-11,Fully Paid,debt_consolidation,AZ,7125.283165,7125.28,6000,Apr-14,INDIVIDUAL
+1069346,12500, 60 months,12.69,282.44,United States Infrastructure Corporation,1 year,RENT,Dec-11,Current,debt_consolidation,IL,13506.54,13479.58,9306.87,Jan-16,INDIVIDUAL
+1067573,9600, 36 months,7.51,298.67,Nucor Building Systems,4 years,RENT,Dec-11,Fully Paid,other,SC,10749.76265,10749.76,9600,Jan-15,INDIVIDUAL
+1069506,12000, 36 months,7.9,375.49,John Wiley Jr.,10+ years,RENT,Dec-11,Fully Paid,debt_consolidation,NJ,13516.38296,13516.38,12000,Jan-15,INDIVIDUAL
+1069314,3000, 36 months,18.25,108.84,Starbucks,9 years,MORTGAGE,Dec-11,Fully Paid,other,PA,3915.027595,3915.03,3000,Jan-15,INDIVIDUAL
+1060578,4400, 36 months,16.77,156.37,citizens bank,10+ years,RENT,Dec-11,Fully Paid,debt_consolidation,RI,5626.892655,5626.89,4400,Jan-15,INDIVIDUAL
+1069469,6000, 36 months,6.03,182.62,"Stewart Enterprises, Inc.",10+ years,MORTGAGE,Dec-11,Fully Paid,debt_consolidation,LA,6065.86,6065.86,6000,Jul-12,INDIVIDUAL
+1051117,14000, 36 months,9.91,451.15,golfers warehouse,6 years,RENT,Dec-11,Fully Paid,small_business,MA,16239.91413,16239.91,14000,Jan-15,INDIVIDUAL
+1069465,5000, 36 months,8.9,158.77,STERIS Corporation,10+ years,MORTGAGE,Dec-11,Charged Off,debt_consolidation,OH,5021.37,5021.37,4217.38,Aug-14,INDIVIDUAL
+1069283,10000, 36 months,10.65,325.74,Costco Wholesale Corp.,6 years,RENT,Feb-11,Fully Paid,other,NY,11724.56774,11724.57,10000,Jan-15,INDIVIDUAL
+1069287,10000, 36 months,6.03,304.36,Helicoil,10+ years,RENT,Jun-11,Fully Paid,credit_card,CT,10282.67,10282.67,10000,Jul-12,INDIVIDUAL
+1069453,11000, 36 months,6.62,337.75,cognizant technology solutions,5 years,RENT,Dec-11,Fully Paid,debt_consolidation,CT,12157.38005,12157.38,11000,Jan-15,INDIVIDUAL
+1069248,15000, 36 months,9.91,483.38,Caterpillar Inc.,8 years,MORTGAGE,Dec-11,Charged Off,debt_consolidation,IL,16177.77,16177.77,13556.45,Oct-14,INDIVIDUAL
+1068120,25600, 36 months,9.91,824.96,City of Santa Monica ,9 years,RENT,Dec-11,Fully Paid,credit_card,CA,29695.62268,29405.63,25600,Jan-15,INDIVIDUAL
+1069244,7000, 36 months,10.65,228.02,Aerotek Scientific,< 1 year,RENT,Dec-11,Fully Paid,debt_consolidation,CA,8205.473816,8205.47,7000,Jan-15,INDIVIDUAL
+1069243,12000, 36 months,15.96,421.65,Chemat Technology Inc,4 years,RENT,Dec-11,Charged Off,car,CA,3521.95,3521.95,1903.66,Aug-12,INDIVIDUAL
+1069238,12000, 36 months,9.91,386.7,Scott & White,1 year,RENT,Dec-11,Fully Paid,credit_card,TX,13748.21311,13748.21,12000,Jul-14,INDIVIDUAL
+1069410,21000, 60 months,19.91,555.33,Costco,7 years,RENT,Dec-11,Charged Off,debt_consolidation,WA,18319.14,18297.35,8990.81,Oct-14,INDIVIDUAL
+1068409,16000, 60 months,19.91,423.11,CA Technologies,7 years,RENT,Dec-11,Fully Paid,credit_card,MA,20876.1,20810.87,16000,Oct-13,INDIVIDUAL
+1068487,10000, 36 months,12.42,334.16,Netflix,< 1 year,OWN,Dec-11,Fully Paid,debt_consolidation,OR,11474.76,11474.76,10000,Jul-13,INDIVIDUAL
+1043961,10000, 36 months,10.65,325.74,DCAA,2 years,RENT,Dec-11,Fully Paid,credit_card,TX,10575.94,10575.94,10000,Aug-12,INDIVIDUAL
+1068945,7100, 36 months,16.77,252.33,Triple D security ,1 year,MORTGAGE,Dec-11,Fully Paid,debt_consolidation,TX,9079.334843,9079.33,7100,Jan-15,INDIVIDUAL
+1069142,13000, 60 months,12.69,293.74,wrisco,< 1 year,MORTGAGE,Dec-11,Fully Paid,debt_consolidation,NJ,17402.23999,17402.24,13000,Jan-16,INDIVIDUAL
+1068934,17500, 60 months,17.27,223.74,CPI,6 years,RENT,Dec-11,Current,small_business,CA,10713.52,10683.65,6487.75,Jan-16,INDIVIDUAL
+1069136,17675, 60 months,14.65,417.25,webb candy,< 1 year,RENT,Dec-11,Fully Paid,debt_consolidation,WI,21323.43,21323.43,17675,Aug-13,INDIVIDUAL
+1068923,8000, 36 months,16.77,284.31,Omniplex ,< 1 year,RENT,Jan-11,Fully Paid,debt_consolidation,VA,10267.26214,10267.26,8000,Dec-14,INDIVIDUAL
+1069126,10000, 60 months,10.65,215.69,CEC ENTERTAINMENT INC,10+ years,RENT,Dec-11,Charged Off,debt_consolidation,OH,8772.91,8751.08,5495.38,Apr-15,INDIVIDUAL
+1069102,3500, 36 months,10.65,114.01,CPI,7 years,MORTGAGE,Dec-11,Fully Paid,debt_consolidation,OH,4103.168128,4103.17,3500,Jan-15,INDIVIDUAL
+1069093,12500, 60 months,17.27,223.11,grandma kitchen,5 years,RENT,Nov-11,Charged Off,debt_consolidation,MN,5577.75,5577.75,2812.82,Feb-14,INDIVIDUAL
+1069030,16425, 36 months,14.27,563.53,"Gen-Probe, Inc",4 years,RENT,Dec-11,Fully Paid,debt_consolidation,CA,18172.71,18172.71,16425,Nov-12,INDIVIDUAL
+1068906,8200, 60 months,21.28,223.14,autozone,4 years,RENT,Dec-11,Charged Off,small_business,CA,4173.57,4173.57,1525.83,Jun-13,INDIVIDUAL
+1069073,15000, 36 months,14.65,517.42,USAF Civil Service,2 years,OWN,Dec-11,Fully Paid,credit_card,FL,18562.40042,18562.4,15000,Sep-14,INDIVIDUAL
+1069043,20975, 60 months,17.58,341.63,Dollar Tree Stores,5 years,MORTGAGE,Dec-11,Fully Paid,credit_card,GA,18097.34458,18064.1,13575,Apr-14,INDIVIDUAL
+1060981,6400, 36 months,16.77,227.45,"Riverside County, California",5 years,RENT,Dec-11,Charged Off,debt_consolidation,CA,4776.45,4776.45,3334.25,Oct-13,INDIVIDUAL
+1069071,3000, 36 months,13.49,101.8,Insight Card Services,1 year,RENT,Dec-11,Fully Paid,debt_consolidation,AL,3246.8,3246.8,3000,Sep-12,INDIVIDUAL
